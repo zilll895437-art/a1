@@ -1,0 +1,6 @@
+{
+  "name": "AI 智慧課程讀書神器",
+  "description": "上傳課程音檔、PPT/PDF講義或 YouTube 影片連結，AI 即可為您極速生成重點摘要、考前懶人包、互動測驗與學霸記憶卡，是您的最佳考前衝刺讀書工具！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
